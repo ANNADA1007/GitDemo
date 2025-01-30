@@ -8,6 +8,8 @@ public class Day1 {
 	@BeforeSuite
 	public void beforeSuite() {
 		System.out.println("Execute before suite tag in xml");
+		System.out.println("Added a new statement");
+		System.out.println("Good luck on site guy figuring this out");
 	}
 	
 	@Test
